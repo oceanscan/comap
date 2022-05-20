@@ -1,0 +1,9 @@
+[submodule "dune"]
+	path = dune
+	url = https://github.com/LSTS/dune.git
+[submodule "imcjava"]
+	path = imcjava
+	url = https://github.com/LSTS/imcjava.git
+[submodule "IMC"]
+	path = IMC
+	url = https://github.com/LSTS/imc.git
